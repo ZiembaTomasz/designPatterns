@@ -5,4 +5,5 @@
     - builder
     - observer
     - singleton
+    - decorator
  

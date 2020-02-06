@@ -283,7 +283,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581028379510" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581028392250" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -429,15 +429,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SingletonTestSuite_testGetFileName - 2020.02.05 at 16h 18m 14s.xml">
-      <configuration name="SingletonTestSuite.testGetFileName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SingletonTestSuite_testGetFileName - 2020.02.05 at 16h 25m 22s.xml">
-      <configuration name="SingletonTestSuite.testGetFileName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DrinkBuilderTestSuite_testDrinkBuilder - 2020.02.05 at 17h 51m 27s.xml">
-      <configuration name="DrinkBuilderTestSuite.testDrinkBuilder" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TwitterObserverTestSuite_shouldUpdateTest - 2020.02.05 at 22h 42m 35s.xml">
       <configuration name="TwitterObserverTestSuite.shouldUpdateTest" configurationId="JUnit" />
     </history-entry>
@@ -455,6 +446,18 @@
     </history-entry>
     <history-entry file="TwitterObserverTestSuite_shouldUpdateTest - 2020.02.05 at 23h 04m 31s.xml">
       <configuration name="TwitterObserverTestSuite.shouldUpdateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DecoratorTestSuite_shouldGetCost - 2020.02.06 at 23h 30m 18s.xml">
+      <configuration name="DecoratorTestSuite.shouldGetCost" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DecoratorTestSuite_shouldGetCost - 2020.02.06 at 23h 30m 48s.xml">
+      <configuration name="DecoratorTestSuite.shouldGetCost" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DecoratorTestSuite_shouldGestDescription - 2020.02.06 at 23h 33m 01s.xml">
+      <configuration name="DecoratorTestSuite.shouldGestDescription" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DecoratorTestSuite_shouldGestDescription - 2020.02.06 at 23h 33m 13s.xml">
+      <configuration name="DecoratorTestSuite.shouldGestDescription" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
