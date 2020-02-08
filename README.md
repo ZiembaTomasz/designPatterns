@@ -6,4 +6,5 @@
     - observer
     - singleton
     - decorator
+    - strategy
  
